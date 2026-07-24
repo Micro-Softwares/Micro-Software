@@ -1,8 +1,8 @@
 {
-  "version": "1.7.2",
-  "package_url": "https://REPLACE-WITH-YOUR-DOMAIN/microdwg/MicroDWG-1.7.2.zip",
-  "sha256": "733959b4777367344b8d4325b4960e32bcce1ed14a9fc47e36226eb3b85500bc",
-  "size": 175959233,
+  "version": "1.7.3",
+  "package_url": "https://micro-softwares.github.io/Micro-Software/MicroDwg/MicroDWG-1.7.3.zip",
+  "sha256": "1f1cbaa7864eda197e32d616b18dab6ba634e96e1b10d047e1613986cb3a80a0",
+  "size": 175863007,
   "notes": "Initial test release",
   "files": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "path": "Micro DWG.exe",
-      "sha256": "f0d1a94d8ed44572eea429f0ae7a641cb5c3443487b2ef29f3a7c6dc432527a2",
-      "size": 301684224
+      "sha256": "c44fa0b19c170720f5c04da9897a6d710805775185851017c91aad96ba3c5c2a",
+      "size": 301681664
     },
     {
       "path": "msvcp140.dll",
@@ -92,8 +92,8 @@
     },
     {
       "path": "readme.txt",
-      "sha256": "95d54bf17504ac734451d4133ffa46a1a1431c07b05b117e04e3eec9743381f7",
-      "size": 54930
+      "sha256": "db035aebbb00083b677d2e2e0eb1e29dd49caaa14749b5dcf30dab58cf60e7e3",
+      "size": 60276
     },
     {
       "path": "select.pyd",
@@ -4512,8 +4512,8 @@
     },
     {
       "path": "MicroUpdater.exe",
-      "sha256": "e1fc3c5379ae1a379facaf46f83cf019ffb053a0d082189d144579827146ebed",
-      "size": 7692800
+      "sha256": "18f122c09e1d0e15e2dc8b543c77af4b465be0fe2cb27a7a2160e73949360381",
+      "size": 7476224
     },
     {
       "path": "tcl86t.dll",
