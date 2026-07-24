@@ -1,8 +1,8 @@
 {
   "version": "1.7.3",
   "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroDWG-v1.7.3/MicroDWG-1.7.3.zip",
-  "sha256": "829d67db2b25709eb4f4cbd2fde991130a430823dec76b17e7e029197f345ca1",
-  "size": 175889338,
+  "sha256": "4f6c74fcffaf3b8234f7b7de6fc882d90a27a5fd358ef895d9ab4c28d3733770",
+  "size": 175892671,
   "notes": "Initial test release",
   "files": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "path": "Micro DWG.exe",
-      "sha256": "1db8244907835def24602563d2aebe95abb928ed28cf2bd29b66b6e5f6923729",
-      "size": 301724672
+      "sha256": "d763e9938f004c80c1d594a30626ac23cd5d270a0175b137392c9b3abee41d21",
+      "size": 301725184
     },
     {
       "path": "msvcp140.dll",
@@ -4509,11 +4509,6 @@
       "path": "tzdata/zoneinfo/US/Samoa",
       "sha256": "650d918751366590553063cd681592fdca8a09957e0ce2c18d6697ec385ef796",
       "size": 146
-    },
-    {
-      "path": "MicroUpdater.exe",
-      "sha256": "980680c9ff540db6e629baaccaed7012cb6a2179c154c000c51791ddc60ea450",
-      "size": 7518208
     },
     {
       "path": "tcl86t.dll",
