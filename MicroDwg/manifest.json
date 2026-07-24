@@ -1,8 +1,8 @@
 {
-  "version": "1.7.4",
-  "package_url": "https://micro-softwares.github.io/Micro-Software/MicroDwg/MicroDWG-1.7.4.zip",
-  "sha256": "a3371eedbab9b0ba1609086eae209398c8b94812eb55c256dcdfd46fa13e2e1f",
-  "size": 175873285,
+  "version": "1.7.3",
+  "package_url": "https://micro-softwares.github.io/Micro-Software/MicroDwg/MicroDWG-1.7.3.zip",
+  "sha256": "861ce8cf343e535b3f47a5363a99b6f9ef774ca1111c21852a9dec97d3fd1cf2",
+  "size": 175889337,
   "notes": "Initial test release",
   "files": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "path": "Micro DWG.exe",
-      "sha256": "0cac025bc3f6ddd084d4edc5ccaec07b8a027f3fc315b1e301afed6f1f90260d",
-      "size": 301681152
+      "sha256": "4e916ce24b68a342d912f12a9f2a957d2ec46f97c7c7cc86d13fd876c0d191df",
+      "size": 301724672
     },
     {
       "path": "msvcp140.dll",
@@ -4512,8 +4512,8 @@
     },
     {
       "path": "MicroUpdater.exe",
-      "sha256": "8601643fbee58b0e4cfba05c6cd4816e006d5c54843645ae85680c0505686e7d",
-      "size": 7510528
+      "sha256": "980680c9ff540db6e629baaccaed7012cb6a2179c154c000c51791ddc60ea450",
+      "size": 7518208
     },
     {
       "path": "tcl86t.dll",
