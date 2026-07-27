@@ -1,8 +1,8 @@
 {
   "version": "1.5.3",
   "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroContour-v1.5.3/MicroContour-1.5.3.zip",
-  "sha256": "7a8dcc434425a7ddf332340e7b92259e28142517462f6c03b99b9135432bf127",
-  "size": 146916602,
+  "sha256": "d5e219997e9aea60d41cf37081645ac4fb111637dc74688a88d3d883c4dc54e8",
+  "size": 146937529,
   "notes": "Initial update-system release",
   "files": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "path": "Micro Contour.exe",
-      "sha256": "588aad3e809d5297584dea597aa924e699b8c3e53ccd94f75c38ba9162e112b8",
-      "size": 196468224
+      "sha256": "674fb2d32ba21946dda25927cdd217f598011dc16f68525052ded1f47d673ca9",
+      "size": 196505088
     },
     {
       "path": "msvcp140.dll",
@@ -92,8 +92,8 @@
     },
     {
       "path": "readme.txt",
-      "sha256": "248c9e053b784ee1c169c2712940ba17775057d1e3896f3d78911785ee0341da",
-      "size": 74577
+      "sha256": "421f5690a06708607d2dffa16e24e819e6bf472b9fea9368b6c62dff35626247",
+      "size": 75691
     },
     {
       "path": "select.pyd",
