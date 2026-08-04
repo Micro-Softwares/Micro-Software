@@ -1,8 +1,8 @@
 {
   "version": "1.7.3",
   "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroDWG-v1.7.3/MicroDWG-1.7.3.zip",
-  "sha256": "4f6c74fcffaf3b8234f7b7de6fc882d90a27a5fd358ef895d9ab4c28d3733770",
-  "size": 175892671,
+  "sha256": "b7955bc92a927acac794550f21d9bfcdd14de81558253a535d9b4fc973e912c2",
+  "size": 148182915,
   "notes": "Initial test release",
   "files": [
     {
@@ -22,13 +22,13 @@
     },
     {
       "path": "logo.ico",
-      "sha256": "dd799c84c2535a23595b6e2105b1d547b7f850e005c7951ae3f5aa9f17e10a1d",
-      "size": 222970
+      "sha256": "2b1babfdd3cc2f19b45e68de51d99e13d8daa126b43b5782b1e6d0219d082dcb",
+      "size": 19537
     },
     {
       "path": "Micro DWG.exe",
-      "sha256": "d763e9938f004c80c1d594a30626ac23cd5d270a0175b137392c9b3abee41d21",
-      "size": 301725184
+      "sha256": "ce737d66fb40ede9b1ad010c8538b7e442829647444abec822c02df5ce2f1d8e",
+      "size": 222161920
     },
     {
       "path": "msvcp140.dll",
@@ -92,8 +92,8 @@
     },
     {
       "path": "readme.txt",
-      "sha256": "db035aebbb00083b677d2e2e0eb1e29dd49caaa14749b5dcf30dab58cf60e7e3",
-      "size": 60276
+      "sha256": "1e4b738b4b049501f975cebbcfc6f75fac8b49c640a26e9ade78f72979a5b524",
+      "size": 66921
     },
     {
       "path": "select.pyd",
@@ -102,8 +102,8 @@
     },
     {
       "path": "splash.png",
-      "sha256": "9bf8796f1da5dee4b3865cfedb6761ff2e9321d4b60e37e70e54384b28e68395",
-      "size": 1370207
+      "sha256": "52fa5f710dd0f69cfce2d1e15ba8814345e7d2172616a035b3432b6ce3db28ab",
+      "size": 87678
     },
     {
       "path": "sqlite3.dll",
@@ -217,8 +217,8 @@
     },
     {
       "path": "configs_template/config.json",
-      "sha256": "0a7d98819b0a184e0a424d7fbf3a6d3c1ebda28068d0064849e2e7c9ce312be8",
-      "size": 71927
+      "sha256": "4e2f207c9e21b5f3552763f4e2e830c963bddf95a2d9beeda1a0c3a962b436b2",
+      "size": 72548
     },
     {
       "path": "ezdxf/acc/bezier3p.c",
@@ -941,29 +941,9 @@
       "size": 186368
     },
     {
-      "path": "scipy/cluster/_hierarchy.pyd",
-      "sha256": "b4f945d8ad6909feddbe7066da7a8da6921cad934d8a2fa2fbd8ff9e929b9ea1",
-      "size": 244736
-    },
-    {
-      "path": "scipy/cluster/_optimal_leaf_ordering.pyd",
-      "sha256": "3b47393fca0e388311eaa21c968d610a6ee71c1e5a0141af6ddb609dab17fc6b",
-      "size": 174080
-    },
-    {
-      "path": "scipy/cluster/_vq.pyd",
-      "sha256": "ededd9c9a7e85c771317dacc3f8fc311a95e9be80f06a28eef7e24f3151fbc1a",
-      "size": 101376
-    },
-    {
       "path": "scipy/fft/_pocketfft/pypocketfft.pyd",
       "sha256": "8d70c8509355fdf03cb78cb5269c6553597daee64fb52184fa85e26a95ac8d51",
       "size": 1097728
-    },
-    {
-      "path": "scipy/fftpack/convolve.pyd",
-      "sha256": "a0a7f117f1e4ebea01bf4e083cf94140a44d44123b6291c95084f5cbfb1a178e",
-      "size": 118272
     },
     {
       "path": "scipy/integrate/_dop.pyd",
@@ -979,11 +959,6 @@
       "path": "scipy/integrate/_quadpack.pyd",
       "sha256": "0f1e6e680bf093b3a978fc0c86fb866dce0ea077f1fa1a593c0395ca7c54e692",
       "size": 143360
-    },
-    {
-      "path": "scipy/integrate/_test_multivariate.pyd",
-      "sha256": "708dd7f03167cd84b680293d51999fcfa02a4128496125cfafdf6f8b8f6e70ba",
-      "size": 17920
     },
     {
       "path": "scipy/integrate/_vode.pyd",
@@ -1024,26 +999,6 @@
       "path": "scipy/interpolate/_rgi_cython.pyd",
       "sha256": "fac499f619d5bcb32ce191fd58f3691f6894f13fda54b198358b00d25017e7ed",
       "size": 120320
-    },
-    {
-      "path": "scipy/io/matlab/_mio5_utils.pyd",
-      "sha256": "f45f97c39f29fba5faca730ea66a1871fb9c9c9720950e370d450134529d263b",
-      "size": 178176
-    },
-    {
-      "path": "scipy/io/matlab/_mio_utils.pyd",
-      "sha256": "793a25d55790e7882521f43611d5e8b785d851a8e921b8ec4f28afdf3cbe035c",
-      "size": 51712
-    },
-    {
-      "path": "scipy/io/matlab/_streams.pyd",
-      "sha256": "49a0281aa1ea1cd5ee7963de6710cd5a1bea9701507f7c67d8a35a3475b80981",
-      "size": 107008
-    },
-    {
-      "path": "scipy/io/_fast_matrix_market/_fmm_core.pyd",
-      "sha256": "bf4db037fde23b65cb8aeff5bc604aabe025280087e78857557990aff79c0891",
-      "size": 2846208
     },
     {
       "path": "scipy/linalg/cython_blas.pyd",
@@ -1116,16 +1071,6 @@
       "size": 118272
     },
     {
-      "path": "scipy/ndimage/_ctest.pyd",
-      "sha256": "b8941cca0215e010e8bd9eb320d8f960842c6499719272cc607d4d5b1049bb98",
-      "size": 16896
-    },
-    {
-      "path": "scipy/ndimage/_cytest.pyd",
-      "sha256": "67b97855323aa77175050cc1bf8175299471952cc259f49f1e12abb146128381",
-      "size": 70656
-    },
-    {
       "path": "scipy/ndimage/_nd_image.pyd",
       "sha256": "32aa514bf511cef4e40134bcf0c85d3a3f178fe211c21efb6620d01d0c211e1d",
       "size": 177664
@@ -1139,11 +1084,6 @@
       "path": "scipy/ndimage/_rank_filter_1d.pyd",
       "sha256": "64dfeaa1767f814b02c68365f151ef7f8339548f0a882b2e3fb2bf3723c63ef0",
       "size": 124416
-    },
-    {
-      "path": "scipy/odr/__odrpack.pyd",
-      "sha256": "54c99939837030390776334681158d765561e0c86d526f8619b6fe3280cd90a8",
-      "size": 689152
     },
     {
       "path": "scipy/optimize/_bglu_dense.pyd",
@@ -1196,11 +1136,6 @@
       "size": 23040
     },
     {
-      "path": "scipy/optimize/cython_optimize/_zeros.pyd",
-      "sha256": "88cd05182c5cc24e63836fa1cd68d461573d8a5d960167598aabbe38e29db583",
-      "size": 78336
-    },
-    {
       "path": "scipy/optimize/_highspy/_core.pyd",
       "sha256": "3a96976268066e0aacc672e6370469cbca85e296109d35cc32b96adf33df9c10",
       "size": 6443520
@@ -1219,36 +1154,6 @@
       "path": "scipy/optimize/_trlib/_trlib.pyd",
       "sha256": "ab8bab2948a78d1756b1e3c49353d92f5b6775646937e13fa0e9cef19d5e59b2",
       "size": 202752
-    },
-    {
-      "path": "scipy/signal/_max_len_seq_inner.pyd",
-      "sha256": "11400c59f78c20eb58d5b4c535f40d5ed64065b5a5c50ad62656d5e67ee832cf",
-      "size": 1006592
-    },
-    {
-      "path": "scipy/signal/_peak_finding_utils.pyd",
-      "sha256": "3a9ead87f68549e6a0cfd296024b9c8af3756312681c02257427134041084e64",
-      "size": 139776
-    },
-    {
-      "path": "scipy/signal/_sigtools.pyd",
-      "sha256": "ffc206584ba9ba86fd030566511a70d5f86d54c0048c5545de4f544a2e96156e",
-      "size": 126976
-    },
-    {
-      "path": "scipy/signal/_sosfilt.pyd",
-      "sha256": "40216ab743030be0373f3d132bad224254cf75decb28ab82f9fcc80bee4dce6d",
-      "size": 107008
-    },
-    {
-      "path": "scipy/signal/_spline.pyd",
-      "sha256": "74752bd3fd51b9ad735f57a61f3562c1d4501b47a1ffd1c6959323e7129b3ad4",
-      "size": 63488
-    },
-    {
-      "path": "scipy/signal/_upfirdn_apply.pyd",
-      "sha256": "5d174abcc0779352541da94946e0eccfe02e13b1203f449ba6ef746cf4dd8cfc",
-      "size": 200192
     },
     {
       "path": "scipy/sparse/_csparsetools.pyd",
@@ -1381,11 +1286,6 @@
       "size": 2292224
     },
     {
-      "path": "scipy/special/_test_internal.pyd",
-      "sha256": "28d628ca82042891e2d40065597536e413384d5e58b01ed7167c432b403a94a5",
-      "size": 91648
-    },
-    {
       "path": "scipy/special/_ufuncs.pyd",
       "sha256": "c2f076f3a18fa383affa85972ee0103190d5a45faadd4c1f59847a0fc058b32a",
       "size": 1398784
@@ -1446,11 +1346,6 @@
       "size": 107520
     },
     {
-      "path": "scipy/stats/_unuran/unuran_wrapper.pyd",
-      "sha256": "cfb45e6cd8a52a1bc3d936f892cb4d6d4f83608dd4e4adddcd98f66a3892374a",
-      "size": 1264640
-    },
-    {
       "path": "scipy/_lib/messagestream.pyd",
       "sha256": "2c10c9f7cc7ba9c1aa3eb192393a1f78b69e53a81e09d1b8b424ad32de8e4bc0",
       "size": 58880
@@ -1459,26 +1354,6 @@
       "path": "scipy/_lib/_ccallback_c.pyd",
       "sha256": "ee89ee324024139906563e51e1ca2b7b71055d82f9afbd7878b8a03986ab6ff7",
       "size": 105472
-    },
-    {
-      "path": "scipy/_lib/_fpumode.pyd",
-      "sha256": "4b4659ad0daafe2c0b59bd2e748fd3a2c445dd10f5e1cba0c2900381b2618fa5",
-      "size": 15872
-    },
-    {
-      "path": "scipy/_lib/_test_ccallback.pyd",
-      "sha256": "60efd5402b41e904b018758e7123a62a9b8c709b735d32e4c4caf915d969ef3b",
-      "size": 52224
-    },
-    {
-      "path": "scipy/_lib/_test_deprecation_call.pyd",
-      "sha256": "0b81a9c1cd9be1863d04245111276eec02da5dd809f2cdd7de08c0a5060307d3",
-      "size": 34304
-    },
-    {
-      "path": "scipy/_lib/_test_deprecation_def.pyd",
-      "sha256": "439a8ad57c37c6ca342156e8e06ef921b1f1997864f92d7ac08978c20ab15f46",
-      "size": 23552
     },
     {
       "path": "scipy/_lib/_uarray/_uarray.pyd",
