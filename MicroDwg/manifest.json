@@ -1,10 +1,15 @@
 {
   "version": "1.7.3",
   "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroDWG-v1.7.3/MicroDWG-1.7.3.zip",
-  "sha256": "83dbd3cf22fb4df66bb4bdd35620bda90b7f67c9986f04774ad33d72d2010a60",
-  "size": 148145634,
+  "sha256": "62e0d623b4a5408270118fde40bb5917e049c0238e7f9d441871fbca87a4eaa6",
+  "size": 148298741,
   "notes": "Initial test release",
   "files": [
+    {
+      "path": "cacert.pem",
+      "sha256": "fc9165a12403263e7ebfbdad7be7a3eac0fa5d325d3c70465f28d3690072ca28",
+      "size": 272441
+    },
     {
       "path": "libcrypto-3.dll",
       "sha256": "4e5d5d20d6d31e72ab341c81e97b89e514326c4c861b48638243bdf0918cfa43",
@@ -27,8 +32,8 @@
     },
     {
       "path": "Micro DWG.exe",
-      "sha256": "85cdca98445e1b93b1ef8e399245a5bb3169b7cde69f88889786eaf8b7776c5c",
-      "size": 222167552
+      "sha256": "8e6c95a00ed2f0f1a0bc715fd48d8635c7fe5a5a3f2aca5b46dbc486f5fe9f88",
+      "size": 222173184
     },
     {
       "path": "msvcp140.dll",
