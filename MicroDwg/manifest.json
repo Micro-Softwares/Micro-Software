@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
-  "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroDWG-v1.7.3/MicroDWG-1.7.3.zip",
-  "sha256": "62e0d623b4a5408270118fde40bb5917e049c0238e7f9d441871fbca87a4eaa6",
-  "size": 148298741,
-  "notes": "Initial test release",
+  "version": "1.7.4",
+  "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroDWG-v1.7.4/MicroDWG-1.7.4.zip",
+  "sha256": "c2f6febb5fca5c26dd33a0513fa0a6eb24cb5e036d5192325479e2159a7716bc",
+  "size": 148467340,
+  "notes": "Beta release",
   "files": [
     {
       "path": "cacert.pem",
@@ -32,8 +32,8 @@
     },
     {
       "path": "Micro DWG.exe",
-      "sha256": "8e6c95a00ed2f0f1a0bc715fd48d8635c7fe5a5a3f2aca5b46dbc486f5fe9f88",
-      "size": 222173184
+      "sha256": "d1b85976d1a2bd69fce6c7f0ce82ed338b7d6028da8c7192e51a51951c5faac0",
+      "size": 222766592
     },
     {
       "path": "msvcp140.dll",
@@ -97,8 +97,8 @@
     },
     {
       "path": "readme.txt",
-      "sha256": "1e4b738b4b049501f975cebbcfc6f75fac8b49c640a26e9ade78f72979a5b524",
-      "size": 66921
+      "sha256": "73126de449e7cf9fed2e1cb5908877f1bfc21068e70aef9d845f5e80362a814e",
+      "size": 73329
     },
     {
       "path": "select.pyd",
@@ -216,9 +216,14 @@
       "size": 49424
     },
     {
+      "path": "configs_template/BLOCK.dxf",
+      "sha256": "cadc0c9741a44c94ad7834629693cbfd7a6e9df0c4ed9b5bc20da3fc3160c927",
+      "size": 233823
+    },
+    {
       "path": "configs_template/config.json",
-      "sha256": "a45a12bb3cf45581774505026969037d6c283b91a36215c907be02a0ecd5e4bc",
-      "size": 71297
+      "sha256": "43a0f86c661be7987f2e48b50dc23ba2e28c94fc404730a4fe2b192bb47e0d20",
+      "size": 79736
     },
     {
       "path": "ezdxf/acc/bezier3p.c",
