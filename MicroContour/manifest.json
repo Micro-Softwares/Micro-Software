@@ -1,8 +1,8 @@
 {
   "version": "1.5.4",
   "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroContour-v1.5.4/MicroContour-1.5.4.zip",
-  "sha256": "b8cff3d737797e968e9617b89685e10862ed6c564bd4ca7806d41e3b5405bd90",
-  "size": 150322389,
+  "sha256": "3e76be0dbc65f59d1b4bc1851ee2ca814fc96c3966427adc00b6f63a7070737e",
+  "size": 150331340,
   "notes": "Beta Version",
   "files": [
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "Micro Contour.exe",
-      "sha256": "a4771638e81485d12dc82029feb166dbfc549afdc92f302d042bcb77b39a851d",
-      "size": 207116800
+      "sha256": "9d19230c0be74d8ddac979c9895e45956afc4da944cc3227d799bdb2b1419616",
+      "size": 207166976
     },
     {
       "path": "msvcp140.dll",
