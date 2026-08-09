@@ -1,10 +1,15 @@
 {
-  "version": "1.5.3",
-  "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroContour-v1.5.3/MicroContour-1.5.3.zip",
-  "sha256": "8a0fbe625294ab4a6ce2fcc0fa3e2a555149a5057bdc5b0ea3b7a91f5a922401",
-  "size": 149098539,
-  "notes": "Initial update-system release",
+  "version": "1.5.4",
+  "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroContour-v1.5.4/MicroContour-1.5.4.zip",
+  "sha256": "b8cff3d737797e968e9617b89685e10862ed6c564bd4ca7806d41e3b5405bd90",
+  "size": 150322389,
+  "notes": "Beta Version",
   "files": [
+    {
+      "path": "cacert.pem",
+      "sha256": "fc9165a12403263e7ebfbdad7be7a3eac0fa5d325d3c70465f28d3690072ca28",
+      "size": 272441
+    },
     {
       "path": "libcrypto-3.dll",
       "sha256": "4e5d5d20d6d31e72ab341c81e97b89e514326c4c861b48638243bdf0918cfa43",
@@ -27,8 +32,8 @@
     },
     {
       "path": "Micro Contour.exe",
-      "sha256": "4b84aa600dce6344ab744060863037f818548c4bc822898bb653dec2dccc7199",
-      "size": 203389952
+      "sha256": "a4771638e81485d12dc82029feb166dbfc549afdc92f302d042bcb77b39a851d",
+      "size": 207116800
     },
     {
       "path": "msvcp140.dll",
@@ -92,8 +97,8 @@
     },
     {
       "path": "readme.txt",
-      "sha256": "2cfeff407caeabaf215f9af011e7e4dafa84011d7df59ba0e21629508da818b2",
-      "size": 72964
+      "sha256": "2c5a69362bda3b3c8cba249381265757c3d28d5031fbc1ca48af1bf7e1d7eade",
+      "size": 75969
     },
     {
       "path": "select.pyd",
@@ -102,8 +107,8 @@
     },
     {
       "path": "splash.png",
-      "sha256": "8afb8c5cb925bf4c27b871f749e65438993d6f4b69bff224ecef3518a53fc252",
-      "size": 141332
+      "sha256": "8f6afe6d86f7e2d50675532c95be814d217809e5f39e6b8eb62b412a91446800",
+      "size": 147792
     },
     {
       "path": "sqlite3.dll",
@@ -222,8 +227,8 @@
     },
     {
       "path": "configs/config.json",
-      "sha256": "c9857e152c75df98fb5a223f7016acd100e2ab16cee2f5f2bb420fa714b06295",
-      "size": 1302
+      "sha256": "e998397fde86f6f8af177a075bb3033a0674d6605deddc8967b4938baa3d39fa",
+      "size": 1204
     },
     {
       "path": "contourpy/_contourpy.pyd",
