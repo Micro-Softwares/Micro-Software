@@ -1,8 +1,8 @@
 {
   "version": "1.5.4",
   "package_url": "https://github.com/Micro-Softwares/Micro-Software/releases/download/MicroContour-v1.5.4/MicroContour-1.5.4.zip",
-  "sha256": "7d67b48ead69e3e4077a136d93f5618aad1607cf42899cd3a0794f8ee27a8015",
-  "size": 150412099,
+  "sha256": "1027ef590551e92ee701947d6b0fee97eb99d0771ba99786bc539fdcf3043f57",
+  "size": 150478747,
   "notes": "Beta Version",
   "files": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "path": "Micro Contour.exe",
-      "sha256": "ff952faa9acdf6a4bd0b8de485491e7cdff6f8c3b7c5addf4d1b73d7d5db4585",
+      "sha256": "06a29db8262d7461b63b26b94d73c5b201587a04bac190f2b6c57d094a702f03",
       "size": 207421952
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "path": "readme.txt",
-      "sha256": "f2b8b897e0b0bc3f945c287def9d9dc67af4f69eb8904c0d3d90da21bed7f867",
-      "size": 79335
+      "sha256": "f19c88eb70e9a295c8b89d12f6ca87d66d007bb59695b9b984a91b4c2c3fae33",
+      "size": 79371
     },
     {
       "path": "select.pyd",
@@ -107,8 +107,8 @@
     },
     {
       "path": "splash.png",
-      "sha256": "8f6afe6d86f7e2d50675532c95be814d217809e5f39e6b8eb62b412a91446800",
-      "size": 147792
+      "sha256": "144b20733ff312bfa2725c736b1d151bda9a68eefd5b9eb4825cf7453a8117b7",
+      "size": 216517
     },
     {
       "path": "sqlite3.dll",
